@@ -7,6 +7,7 @@ others can more easily continue to use and/or update the existing organization.
 ## QR code
 
 Link to this repostiroy:
+```
 ███████████████████████████████████
 █ ▄▄▄▄▄ █▄▀     ▄ ▄ ▀▀█▀▄██ ▄▄▄▄▄ █
 █ █   █ █▀  ▄▀█▄█▀▄ █▄▄▄  █ █   █ █
@@ -26,3 +27,4 @@ Link to this repostiroy:
 █ █▄▄▄█ ███  █▄█▄▀▀▄▀█▀█▄ █▄▄▄▄████
 █▄▄▄▄▄▄▄█▄▄▄█▄▄▄█▄▄█▄▄▄▄▄▄▄▄█████▄█
 ███████████████████████████████████
+```
